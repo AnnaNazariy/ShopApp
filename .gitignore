@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ShopApp/Repositories/ProductRepository.cs
+/ShopApp/Repositories/UnitOfWork.cs
+/ShopApp/Repositories/GenericRepository.cs
+/ShopApp/Repositories/CategoryRepository.cs
+/ShopApp/Entities/User.cs
+/ShopApp/Entities/Product.cs
+/ShopApp/Entities/BaseEntity.cs
+/ShopApp/Entities/Review.cs
+/ShopApp/Repositories/Interfaces/IUnitOfWork.cs
+/ShopApp/Repositories/Interfaces/IProductRepository.cs
+/ShopApp/Repositories/Interfaces/ICategoryRepository.cs
+/ShopApp/Repositories/Interfaces/IGenericRepository.cs
